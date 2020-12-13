@@ -1,0 +1,12 @@
+----   НАЙДЕНЫ   ----
+
+Попов Харитон Агафонович [ "MSK\Popov-KA" "111QQQ222" "Popov A Khariton" "222WWW333" ]
+Кузнецова Елена Геннадьевна [ "MSK\Kuznetsova-EG" "333EEE444" "Elena G Kuznetsova" "444RRR555" ]
+Иванова Наиля Рашитовна [ "MSK\Ivanova-NR" "555TTT666" "Nailya R Ivanova" "666YYY777" ]
+Смирнов Алексей Викторович [ "MSK\Smirnov-AV" "777UUU888" "Alexey V Smirnov" "888III999" ]
+
+
+----   НЕ НАЙДЕНЫ   ----
+
+Иванова Иванов Иванович
+Смирнов Семен Семенович
