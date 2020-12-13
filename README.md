@@ -1,2 +1,1 @@
-# search-for-passwords
-search for passwords in a text file
+Скрипт получает на вход 2 текстовых файла. Файл с паролями "input.txt" и файл с именами "names.txt" чьи пароли нужно найти. Результатом выполнения будет текстовый файл "output.txt"
